@@ -1,4 +1,4 @@
-module github.com/ScreamingTaco/rss-kindle
+module github.com/ScreamingTaco/bbc-mundo-kindle
 
 go 1.16
 
